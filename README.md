@@ -10,6 +10,15 @@ THING THAT INCLUDE IN THIS THIS TUTORIAL:
 3. Redis
 4. Throbber (Loading)
 5. Angular JS (scope, log, http)
+6. Running 2 process in 1 dyno (Not recommended for large project)
+7. Http post request without reload the page using Angular JS
+8. Custom Angular Directive (Display Chart With JS and D3 Library)
+9. D3 Library
+
+REQUIREMENTS
+1. Python runserver (python manage.py runserver)
+2. Redis (src/redis-server)
+3. Turn on the worker (python worker.py)
 
 PROBLEM SOLVING:
 1. AttributeError: 'NoneType' object has no attribute 'result_no_stop_words'
